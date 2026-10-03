@@ -5,7 +5,7 @@
 ---
 
 # 直出运行效果
-#### 测试素材收集自短视频平台，仅作实际场景下效果测试。测试素材不随仓库公开，请自备测试数据。
+#### 测试素材收集自短视频平台，仅作实际场景下效果测试。测试素材不随仓库公开，请自备测试数据。本项目允许商业化。
 <p align="center">
 <img src="docs/test2_neutral_white_studio_neutral_living_room_warm_brick_corner.gif" alt="演示">
 <br /><br />
