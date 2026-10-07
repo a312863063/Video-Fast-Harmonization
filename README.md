@@ -5,15 +5,16 @@
 ---
 
 # 直出运行效果
-#### 测试素材收集自短视频平台，仅作实际场景下效果测试。测试素材不随仓库公开，请自备测试数据。本项目允许商业化。
+#### 测试素材收集自短视频平台，仅作实际场景下效果测试。测试素材不随仓库公开，请自备测试数据。
 <p align="center">
 <img src="docs/test2_neutral_white_studio_neutral_living_room_warm_brick_corner.gif" alt="演示">
 <br /><br />
 <img src="docs/test2_cool_neon_street_neutral_white_niche_warm_sunset_window.gif" alt="演示">
 <br /><br />
 <img src="docs/test1_cool_neon_dusk_room_cool_neon_teal_room_cool_neon_violet_room.gif" alt="演示">
-
 </p>
+
+#### 评论区反馈需求和问题，我来做进一步优化~
 
 ---
 
